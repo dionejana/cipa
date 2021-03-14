@@ -11,12 +11,13 @@ body {
     margin: 20px;
     padding:10%;
     max-width: 840px;
+    margin-top:0;
 }
     
     
 #menu {
     margin-bottom:0;
-    margin-top:0;
+    
     text-align: center;
     background-color: black;
     
